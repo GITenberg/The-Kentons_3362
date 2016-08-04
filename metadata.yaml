@@ -1,0 +1,33 @@
+_repo: The-Kentons_3362
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: The Kenton family flees from Tuskingum, Ohio, to Europe seeking solace
+  for daughter Ellen's broken heart. After experiencing foreign travel, urban living,
+  and turn-of-the-century European mores, the family returns to a confined, but secure,
+  life in their small village.
+gutenberg_issued: '2004-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Ohio -- Social life and customs -- Fiction'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- GITenberg
+title: The Kentons
+url: http://www.gutenberg.org/ebooks/3362
