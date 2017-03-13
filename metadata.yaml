@@ -1,5 +1,8 @@
 _repo: The-Kentons_3362
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howells, William Dean
@@ -15,6 +18,8 @@ description: The Kenton family flees from Tuskingum, Ohio, to Europe seeking sol
   for daughter Ellen's broken heart. After experiencing foreign travel, urban living,
   and turn-of-the-century European mores, the family returns to a confined, but secure,
   life in their small village.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3362#The-Kentons
 gutenberg_issued: '2004-10-24'
 gutenberg_type: Text
 identifiers:
